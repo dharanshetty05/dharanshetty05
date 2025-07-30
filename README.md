@@ -15,9 +15,9 @@ I'm a passionate developer who loves building meaningful web applications and so
 React, DSA in C++, Tailwind CSS
 
 📌 **Projects:**
-- ⚙️ [Techify – Electronics Management System](#)
-- 🔐 [Biometric Auth with Blockchain & ECC](#)
-- 📦 [Blockchain-Based Supply Chain Tracker](#)
+- ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
+- 📦 [Blockchain-Based Supply Chain Tracker](https://github.com/dharanshetty05/BlockchainSupplyChain.git)
+- 🔐 [QR Code Generator](https://github.com/dharanshetty05/QR-Code-Generator.git)
 
 ---
 
