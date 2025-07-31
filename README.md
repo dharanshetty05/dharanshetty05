@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharan Shetty!
 
-🎓 B.Tech Graduate | 💻 Software Developer | 🎬 Filmmaker
+🎓 B.Tech Graduate | 💻 Software Developer
 
 ---
 
@@ -17,6 +17,7 @@ React, DSA in C++, Tailwind CSS
 📌 **Projects:**
 - ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
 - 📦 [Blockchain-Based Supply Chain Tracker](https://github.com/dharanshetty05/BlockchainSupplyChain.git)
+- 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
 - 🔐 [QR Code Generator](https://github.com/dharanshetty05/QR-Code-Generator.git)
 
 ---
