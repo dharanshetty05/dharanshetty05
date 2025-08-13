@@ -19,11 +19,12 @@ React, DSA in C++, Tailwind CSS
 - 📦 [Blockchain-Based Supply Chain Tracker](https://github.com/dharanshetty05/BlockchainSupplyChain.git)
 - 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
 - 🔐 [QR Code Generator](https://github.com/dharanshetty05/QR-Code-Generator.git)
+- 🐦 [TweetGen - Social Media Web App using Django](https://github.com/dharanshetty05/TweetGen_Django.git)
 
 ---
 
 ### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,js,tailwindcss,py,cpp,html,css,angular,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,js,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
 
 ---
 
