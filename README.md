@@ -15,7 +15,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 🌱 **Currently Learning:**  
 Django, DSA in C++, Tailwind CSS
 
-💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://github.com/dharanshetty05/MyPortfolio.git)
+💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharanshetty05.github.io/MyPortfolio)
 
 📌 **Projects:**
 - ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
