@@ -6,13 +6,16 @@
 
 I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in React, JavaScript, Python, and C++, I bring both creativity and technical expertise to the table.
 
+
 💼 **Recent Experience:**
 - 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
 - 👨‍💻 Worked on various web development projects like **Techify** etc.
 - 🎥 Founder of **Agasthya Productions**, directing short films and ads.
 
 🌱 **Currently Learning:**  
-React, DSA in C++, Tailwind CSS
+Django, DSA in C++, Tailwind CSS
+
+💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://github.com/dharanshetty05/MyPortfolio.git)
 
 📌 **Projects:**
 - ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
