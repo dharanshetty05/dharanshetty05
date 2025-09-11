@@ -13,7 +13,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 - 🎥 Founder of **Agasthya Productions**, directing short films and ads.
 
 🌱 **Currently Learning:**  
-Django, DSA in C++, Tailwind CSS
+NodeJS/ExpressJS, DSA in C++
 
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharanshetty05.github.io/MyPortfolio)
 
