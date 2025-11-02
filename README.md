@@ -15,7 +15,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 🌱 **Currently Learning:**  
 NextJS, DSA in C++
 
-💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharanshetty05.github.io/MyPortfolio)
+💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
 📌 **Projects:**
 - ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
