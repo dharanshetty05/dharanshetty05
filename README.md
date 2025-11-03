@@ -10,7 +10,6 @@ I'm a passionate developer who loves building meaningful web applications and so
 💼 **Recent Experience:**
 - 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
 - 👨‍💻 Worked on various web development projects like **Techify** etc.
-- 🎥 Founder of **Agasthya Productions**, directing short films and ads.
 
 🌱 **Currently Learning:**  
 NextJS, DSA in C++
@@ -33,7 +32,7 @@ NextJS, DSA in C++
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharan-shetty/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AgasthyaProductions)
+[![Website](https://img.shields.io/badge/Website-FF0000?style=flat&logo=youtube&logoColor=white)](https://dharan-shetty.vercel.app/)
 
 ---
 
