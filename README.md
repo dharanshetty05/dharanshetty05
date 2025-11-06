@@ -9,7 +9,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 
 💼 **Recent Experience:**
 - 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
-- 👨‍💻 Worked on various web development projects like **Techify** etc.
+- 👨‍💻 Worked on various web development projects like **TaskManager, TweetGen** etc.
 
 🌱 **Currently Learning:**  
 NextJS, DSA in C++
@@ -17,7 +17,7 @@ NextJS, DSA in C++
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
 📌 **Projects:**
-- ⚙️ [Techify – Electronics Management System](https://github.com/dharanshetty05/TechifyFrontend.git)
+- ⚙️ [TaskManager – A Full Stack Web App for Managing Tasks](https://github.com/dharanshetty05/Task-Manager.git)
 - 🐦 [TweetGen - Social Media Web App using Django](https://github.com/dharanshetty05/TweetGen_Django.git)
 - 📦 [Blockchain-Based Supply Chain Tracker](https://github.com/dharanshetty05/BlockchainSupplyChain.git)
 - 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
@@ -26,7 +26,7 @@ NextJS, DSA in C++
 ---
 
 ### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,js,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,next,js,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
 
 ---
 
