@@ -17,7 +17,7 @@ NextJS, DSA in C++
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
 📌 **Projects:**
-- ⚙️ [TaskManager – A Full Stack Web App for Managing Tasks](https://github.com/dharanshetty05/Task-Manager.git)
+- ⚙️ [TaskManager – Minimal Full-Stack Task Management App (Next.js + Node.js + MongoDB)](https://github.com/dharanshetty05/Task-Manager.git)
 - 🐦 [TweetGen - Social Media Web App using Django](https://github.com/dharanshetty05/TweetGen_Django.git)
 - 📦 [Blockchain-Based Supply Chain Tracker](https://github.com/dharanshetty05/BlockchainSupplyChain.git)
 - 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
