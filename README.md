@@ -32,7 +32,7 @@ NextJS, DSA in C++
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharan-shetty/)
-[![Website](https://img.shields.io/badge/Website-FF0000?style=flat&logo=website&logoColor=white)](https://dharan-shetty.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-FF0000?style=flat&logo=website&logoColor=white)](https://dharan-shetty.vercel.app/)
 
 ---
 
