@@ -26,7 +26,7 @@ NextJS, DSA in C++
 ---
 
 ### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,next,js,node,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,next,js,nodejs,express,tailwindcss,py,cpp,django,html,css,angular,ts,git,github,mysql,npm,vscode,postman)
 
 ---
 
