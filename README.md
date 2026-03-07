@@ -17,16 +17,16 @@ NextJS, DSA in C++
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
 📌 **Projects:**
+- 🔐 [LeadCraftAI – AI Outreach Intelligence Tool](https://github.com/dharanshetty05/LeadCraftAI.git)
 - 📦 [TaskFlow - Collaborative Task Manager (React, Node.js, PostgreSQL, Socket.io)](https://github.com/dharanshetty05/collaborative-task-manager.git)
 - 🐦 [TweetGen - Social Media Web App using Django](https://github.com/dharanshetty05/TweetGen_Django.git)
 - ⚙️ [TaskManager – Minimal Full-Stack Task Management App (Next.js + Node.js + MongoDB)](https://github.com/dharanshetty05/Task-Manager.git)
 - 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
-- 🔐 [QR Code Generator](https://github.com/dharanshetty05/QR-Code-Generator.git)
 
 ---
 
 ### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,next,js,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,next,js,node,tailwindcss,py,cpp,django,html,css,angular,git,github,mysql)
 
 ---
 
