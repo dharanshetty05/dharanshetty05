@@ -4,15 +4,15 @@
 
 ---
 
-I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in NextJS, React, JavaScript, Python, and C++, I bring both creativity and technical expertise to the table.
+I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in NextJS, React, JavaScript, NodeJS, and Python I bring both creativity and technical expertise to the table.
 
 
 💼 **Recent Experience:**
 - 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
-- 👨‍💻 Worked on various web development projects like **TaskManager, TweetGen** etc.
+- 👨‍💻 Worked on various web development projects like **[TaskFlow, LeadCraftAI** etc.
 
 🌱 **Currently Learning:**  
-NextJS, DSA in C++
+NextJS, AI Integrated Full Stack Development
 
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
