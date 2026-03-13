@@ -9,7 +9,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 
 💼 **Recent Experience:**
 - 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
-- 👨‍💻 Worked on various web development projects like **[TaskFlow, LeadCraftAI** etc.
+- 👨‍💻 Worked on various web development projects like **LeadCraftAI, Taskflow** etc.
 
 🌱 **Currently Learning:**  
 NextJS, AI Integrated Full Stack Development
