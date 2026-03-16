@@ -12,7 +12,7 @@ I'm a passionate developer who loves building meaningful web applications and so
 - 👨‍💻 Worked on various web development projects like **LeadCraftAI, Taskflow** etc.
 
 🌱 **Currently Learning:**  
-NextJS, AI Integrated Full Stack Development
+AI Integrated Full Stack Development, LLMs, PostgreSQL
 
 💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
 
