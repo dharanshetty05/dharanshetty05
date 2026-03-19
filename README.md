@@ -26,7 +26,7 @@ AI Integrated Full Stack Development, LLMs, PostgreSQL
 ---
 
 ### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,next,js,nodejs,express,tailwindcss,py,cpp,django,html,css,angular,ts,git,github,mysql,npm,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=react,next,js,nodejs,express,tailwindcss,py,cpp,django,html,css,supabase,angular,ts,git,github,mysql,npm,vscode,postman)
 
 ---
 
