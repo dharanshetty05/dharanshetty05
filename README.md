@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in NextJS, React, JavaScript, NodeJS, and Python I bring both creativity and technical expertise to the table.
+I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in NextJS, React, JavaScript, NodeJS, PostgreSQL and Python I bring both creativity and technical expertise to the table.
 
 
 💼 **Recent Experience:**
