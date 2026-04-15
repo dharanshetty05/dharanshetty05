@@ -19,9 +19,10 @@ AI Integrated Full Stack Development, LLMs, PostgreSQL
 📌 **Projects:**
 - 🔐 [LeadCraftAI – AI Outreach Intelligence Tool](https://github.com/dharanshetty05/LeadCraftAI.git)
 - 📦 [TaskFlow - Collaborative Task Manager (React, Node.js, PostgreSQL, Socket.io)](https://github.com/dharanshetty05/collaborative-task-manager.git)
+- 🔍 [AdSyncAI – AI-Powered Landing Page Personalization Engine](https://github.com/dharanshetty05/adsync-ai)
 - 🐦 [TweetGen - Social Media Web App using Django](https://github.com/dharanshetty05/TweetGen_Django.git)
 - ⚙️ [TaskManager – Minimal Full-Stack Task Management App (Next.js + Node.js + MongoDB)](https://github.com/dharanshetty05/Task-Manager.git)
-- 🔍 [LeetMetric – LeetCode Stats Visualizer](https://github.com/dharanshetty05/LeetMetric.git)
+
 
 ---
 
