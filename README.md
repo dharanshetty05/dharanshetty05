@@ -38,30 +38,29 @@ Minimal full-stack task management app (Next.js + Node.js + MongoDB)
 
 ### 🛠 Tech Stack
 
-**Frontend:**  
-`React` `Next.js` `JavaScript`  
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Backend:**  
-`Node.js` `Express` `PostgreSQL` `MongoDB`  
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-**Other:**  
-`Python` `REST APIs` `AI Integrations` `Git`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharanshetty05&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharanshetty05&theme=radical" />
-</p>
+#### 🧠 Other
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: https://dharan-shetty.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/dharan-shetty/  
+- 🌐 Portfolio: https://dharan-shetty.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/dharan-shetty/
 
 ---
 
