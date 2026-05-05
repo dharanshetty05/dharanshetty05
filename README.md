@@ -1,41 +1,70 @@
-# 👋 Hi, I'm Dharan Shetty!
+<h1 align="center">Hi 👋, I'm Dharan Shetty</h1>
+<h3 align="center">Full-Stack Developer | AI-Driven Web Applications</h3>
 
-🎓 B.Tech Graduate | 💻 Software Developer
-
----
-
-I'm a passionate developer who loves building meaningful web applications and solving real-world problems with code. With hands-on experience in NextJS, React, JavaScript, NodeJS, PostgreSQL and Python I bring both creativity and technical expertise to the table.
-
-
-💼 **Recent Experience:**
-- 🧠 Consulting Intern @ KPMG (Generative AI COE Team)
-- 👨‍💻 Worked on various web development projects like **LeadCraftAI, Taskflow, AdSyncAI** etc.
-
-🌱 **Currently Learning:**  
-AI Integrated Full Stack Development
-
-💻 **Check out my portfolio website:** [Dharan Shetty's Portfolio](https://dharan-shetty.vercel.app/)
-
-📌 **Projects:**
-- 🔐 [LeadCraftAI – AI Outreach Intelligence Tool](https://github.com/dharanshetty05/LeadCraftAI.git)
-- 📦 [TaskFlow - Collaborative Task Manager (React, Node.js, PostgreSQL, Socket.io)](https://github.com/dharanshetty05/collaborative-task-manager.git)
-- 🔍 [AdSyncAI – AI-Powered Landing Page Personalization Engine](https://github.com/dharanshetty05/adsync-ai)
-- 🐦 [AgencyOS - Multi-Tenant Client & Project Management System](https://github.com/dharanshetty05/AgencyOS.git)
-- ⚙️ [TaskManager – Minimal Full-Stack Task Management App (Next.js + Node.js + MongoDB)](https://github.com/dharanshetty05/Task-Manager.git)
-
+<p align="center">
+  <a href="https://dharan-shetty.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dharan-shetty/">LinkedIn</a>
+</p>
 
 ---
 
-### 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,next,js,nodejs,express,tailwindcss,py,cpp,django,html,css,supabase,angular,ts,git,github,mysql,npm,vscode,postman)
+### 🚀 About Me
+
+- 💻 Full-stack developer focused on **AI-powered applications**
+- 🧠 Former **Consulting Intern @ KPMG (Generative AI COE)**
+- ⚡ I build scalable apps combining **clean UI + backend systems + AI integrations**
+- 🌱 Currently diving deeper into **AI-integrated SaaS systems**
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharan-shetty/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=flat&logo=website&logoColor=white)](https://dharan-shetty.vercel.app/)
+### 🧩 Featured Projects
+
+#### 🔐 LeadCraftAI  
+AI outreach intelligence tool for generating and optimizing personalized campaigns  
+
+#### 📦 TaskFlow  
+Real-time collaborative task manager using **WebSockets**  
+
+#### 🔍 AdSyncAI  
+AI-powered landing page personalization engine  
+
+#### 🐦 AgencyOS  
+Multi-tenant system for managing clients, projects, and workflows  
+
+#### ⚙️ TaskManager  
+Minimal full-stack task management app (Next.js + Node.js + MongoDB)
 
 ---
 
-> "Code what you love, and love what you create."  
-— Dharan Shetty
+### 🛠 Tech Stack
+
+**Frontend:**  
+`React` `Next.js` `JavaScript`  
+
+**Backend:**  
+`Node.js` `Express` `PostgreSQL` `MongoDB`  
+
+**Other:**  
+`Python` `REST APIs` `AI Integrations` `Git`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharanshetty05&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharanshetty05&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: https://dharan-shetty.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/dharan-shetty/  
+
+---
+
+<p align="center">
+  <i>"Code what you love, and love what you create."</i>
+</p>
