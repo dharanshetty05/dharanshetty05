@@ -50,6 +50,7 @@ Python, REST APIs, AI integrations, Git
 ### 📫 Connect
 
 🌐 Portfolio: https://dharan-shetty.vercel.app/
+
 💼 LinkedIn: https://www.linkedin.com/in/dharan-shetty/
 
 ---
