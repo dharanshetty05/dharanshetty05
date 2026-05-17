@@ -37,10 +37,10 @@ Minimal full-stack app built with Next.js, Node.js, and MongoDB
 ### 🛠 Tech Stack
 
 **Frontend:**
-React, Next.js, JavaScript
+React, Next.js, JavaScript, Tailwind CSS, HTML, CSS
 
 **Backend:**
-Node.js, Express, PostgreSQL, MongoDB
+Node.js, Express, PostgreSQL, MongoDB, MySQL
 
 **Other:**
 Python, REST APIs, AI integrations, Git
