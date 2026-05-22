@@ -18,19 +18,19 @@
 ### 🧩 Featured Projects
 
 **🔐 LeadCraftAI**
-AI outreach tool that generates and optimizes personalized campaigns
+AI outreach tool that generates and optimizes personalized campaigns built using Next.js and Node.js.
 
 **📦 TaskFlow**
-Real-time collaborative task manager using WebSockets
+Real-time collaborative task manager using WebSockets.
 
 **🔍 AdSyncAI**
-AI-powered landing page personalization engine
+AI-powered landing page personalization engine.
 
 **🐦 AgencyOS**
-Multi-tenant platform for managing clients and projects
+Multi-tenant platform for managing clients and projects.
 
 **⚙️ TaskManager**
-Minimal full-stack app built with Next.js, Node.js, and MongoDB
+Minimal full-stack app built with Next.js, Node.js, and MongoDB.
 
 ---
 
