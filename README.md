@@ -101,8 +101,4 @@ Minimal full-stack productivity application with authentication and CRUD operati
 
 ---
 
-<p align="center">
-  <i>Building modern web experiences with clean design, scalable systems, and AI.</i>
-</p>
-
 > *"Code what you love, and love what you create."*
