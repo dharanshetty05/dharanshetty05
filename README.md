@@ -1,8 +1,10 @@
-# Hi 👋, I'm Dharan Shetty
+<div align="center">
 
-### Full-Stack Developer building AI-driven web applications
+# Dharan Shetty
 
-<p align="left">
+### Full-Stack Developer · AI Integration Specialist · SaaS Builder
+
+<p>
   <a href="https://dharan-shetty.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -11,73 +13,85 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a full-stack developer focused on building modern, scalable, and AI-powered web applications.
-
-- 💻 Building products with **Next.js, Node.js, and AI integrations**
-- 🧠 Former **Consulting Intern @ KPMG (Generative AI COE)**
-- ⚡ Passionate about combining **clean UI, backend systems, and automation**
-- 🌱 Currently exploring **AI SaaS systems & conversion-focused web experiences**
-- 🎯 Focused on creating products that are both technically strong and user-centric
+</div>
 
 ---
 
-## 🧩 Featured Projects
+## Who Am I
 
-### 🔐 LeadCraftAI
-AI outreach platform that generates and optimizes personalized cold outreach campaigns.
+I'm a full-stack developer who builds **production-grade, AI-powered web applications** — from intelligent outreach platforms to multi-tenant agency operating systems.
 
-**Tech Stack:** Next.js, Node.js, OpenAI API
+Previously at **KPMG's Generative AI Center of Excellence** as a Consulting Intern, where I worked at the intersection of enterprise AI strategy and real-world implementation. I bring that same product-thinking mindset to every project I build independently.
 
----
-
-### 📦 TaskFlow
-Real-time collaborative task management platform with live syncing.
-
-**Tech Stack:** React, Node.js, WebSockets, MongoDB
+My work sits at the crossroads of **clean engineering, AI integration, and business outcomes** — I care as much about conversion rates and workflow efficiency as I do about code quality.
 
 ---
 
-### 🔍 AdSyncAI
-AI-powered landing page personalization engine designed to improve conversions.
+## 🏗️ Featured Projects
 
-**Tech Stack:** Next.js, AI APIs, Tailwind CSS
+### [LeadCraftAI](https://github.com/dharan-shetty)
+> *AI-powered cold outreach platform*
 
----
+Generates and optimizes personalized cold outreach campaigns at scale using LLM-driven personalization. Built to reduce manual SDR workload and improve reply rates through contextual messaging.
 
-### 🐦 AgencyOS
-Multi-tenant platform for agencies to manage clients, projects, and workflows.
-
-**Tech Stack:** Next.js, PostgreSQL, Prisma
+`Next.js` `Node.js` `OpenAI API` `REST APIs`
 
 ---
 
-### ⚙️ TaskManager
-Minimal full-stack productivity application with authentication and CRUD operations.
+### [AdSyncAI](https://github.com/dharan-shetty)
+> *Landing page personalization engine*
 
-**Tech Stack:** Next.js, Node.js, MongoDB
+Dynamically adapts landing page content to match incoming ad traffic — increasing relevance and improving conversion rates. Designed as a plug-in layer for marketing teams running paid campaigns.
+
+`Next.js` `AI APIs` `Tailwind CSS`
 
 ---
 
-## 🛠 Tech Stack
+### [AgencyOS](https://github.com/dharan-shetty)
+> *Multi-tenant agency operations platform*
+
+A full-featured platform for agencies to manage clients, projects, and internal workflows under a single roof. Built with multi-tenancy, role-based access, and a relational data model designed for scale.
+
+`Next.js` `PostgreSQL` `Prisma`
+
+---
+
+### [TaskFlow](https://github.com/dharan-shetty)
+> *Real-time collaborative task management*
+
+A live-syncing productivity platform enabling teams to collaborate on tasks without page refreshes. WebSocket-driven architecture ensures zero-latency updates across connected users.
+
+`React` `Node.js` `WebSockets` `MongoDB`
+
+---
+
+### [TaskManager](https://github.com/dharan-shetty)
+> *Full-stack productivity app*
+
+A clean, minimal task management application with secure authentication and full CRUD functionality — built as a foundation for exploring full-stack patterns with Next.js and MongoDB.
+
+`Next.js` `Node.js` `MongoDB`
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 
-### Backend
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=83CD29)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=4DB33D)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=4DB33D)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Tools & Other
+### AI & Tooling
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
@@ -85,20 +99,9 @@ Minimal full-stack productivity application with authentication and CRUD operati
 
 ---
 
-## 📈 Current Focus
+## 📬 Get in Touch
 
-- AI-powered SaaS applications
-- Scalable full-stack architectures
-- Conversion-focused web experiences
-- Automation & workflow systems
+I'm open to full-time roles, freelance projects, and interesting collaborations — especially in AI-native products and SaaS.
 
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://dharan-shetty.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/dharan-shetty/
-
----
-
-> *"Code what you love, and love what you create."*
+- 🌐 **Portfolio:** [dharan-shetty.vercel.app](https://dharan-shetty.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/dharan-shetty](https://www.linkedin.com/in/dharan-shetty/)
