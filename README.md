@@ -1,107 +1,28 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dharan Shetty
+======================================================================================================================================
 
-# Dharan Shetty
+Full-Stack Developer
+--------------------
 
-### Full-Stack Developer · AI Integration Specialist · SaaS Builder
+I build production-ready web applications with clean architecture, reliable data handling, and thoughtful user experiences. I enjoy understanding systems end to end and writing code that is clear, maintainable, and purposeful.
 
-<p>
-  <a href="https://dharan-shetty.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dharan-shetty/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+* 🌍  I'm based in Udupi, Karnataka, India
+* ✉️  You can contact me at [dharanshetty05@gmail.com](mailto:dharanshetty05@gmail.com)
+* 🧠  I'm currently learning Full-stack system design and practical AI integration in web applications.
+* 👥  I'm looking to collaborate on Full-stack web applications, early-stage product ideas, and practical AI-powered tools.
+* 💬  Ask me about I fix bugs for fun and accidentally create new ones for character development.
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
 </p>
 
-</div>
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/dharanshetty05" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/dharan-shetty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-## Who Am I
+<b>My GitHub Stats</b>
 
-I'm a full-stack developer who builds **production-grade, AI-powered web applications** — from intelligent outreach platforms to multi-tenant agency operating systems.
+<a href="http://www.github.com/dharanshetty05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dharanshetty05&stroke=22c55e&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-Previously at **KPMG's Generative AI Center of Excellence** as a Consulting Intern, where I worked at the intersection of enterprise AI strategy and real-world implementation. I bring that same product-thinking mindset to every project I build independently.
-
-My work sits at the crossroads of **clean engineering, AI integration, and business outcomes** — I care as much about conversion rates and workflow efficiency as I do about code quality.
-
----
-
-## 🏗️ Featured Projects
-
-### [LeadCraftAI](https://github.com/dharan-shetty)
-> *AI-powered cold outreach platform*
-
-Generates and optimizes personalized cold outreach campaigns at scale using LLM-driven personalization. Built to reduce manual SDR workload and improve reply rates through contextual messaging.
-
-`Next.js` `Node.js` `OpenAI API` `REST APIs`
-
----
-
-### [AdSyncAI](https://github.com/dharan-shetty)
-> *Landing page personalization engine*
-
-Dynamically adapts landing page content to match incoming ad traffic — increasing relevance and improving conversion rates. Designed as a plug-in layer for marketing teams running paid campaigns.
-
-`Next.js` `AI APIs` `Tailwind CSS`
-
----
-
-### [AgencyOS](https://github.com/dharan-shetty)
-> *Multi-tenant agency operations platform*
-
-A full-featured platform for agencies to manage clients, projects, and internal workflows under a single roof. Built with multi-tenancy, role-based access, and a relational data model designed for scale.
-
-`Next.js` `PostgreSQL` `Prisma`
-
----
-
-### [TaskFlow](https://github.com/dharan-shetty)
-> *Real-time collaborative task management*
-
-A live-syncing productivity platform enabling teams to collaborate on tasks without page refreshes. WebSocket-driven architecture ensures zero-latency updates across connected users.
-
-`React` `Node.js` `WebSockets` `MongoDB`
-
----
-
-### [TaskManager](https://github.com/dharan-shetty)
-> *Full-stack productivity app*
-
-A clean, minimal task management application with secure authentication and full CRUD functionality — built as a foundation for exploring full-stack patterns with Next.js and MongoDB.
-
-`Next.js` `Node.js` `MongoDB`
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=83CD29)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=4DB33D)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### AI & Tooling
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
-
----
-
-## 📬 Get in Touch
-
-I'm open to full-time roles, freelance projects, and interesting collaborations — especially in AI-native products and SaaS.
-
-- 🌐 **Portfolio:** [dharan-shetty.vercel.app](https://dharan-shetty.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/dharan-shetty](https://www.linkedin.com/in/dharan-shetty/)
+<a href="https://github.com/dharanshetty05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanshetty05&langs_count=10&title_color=ffffff&text_color=22c55e&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
